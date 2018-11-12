@@ -1,7 +1,7 @@
 # road-segment-color-ranges
 
 ### for IRI  
-insert into iroads (key,value) values ("iri-ranges",{"dataType":"color_range","for":"iri", "ranges": {  
+insert into iroads (key,value) values ("iri-ranges",{"dataType":"color_range","rangeFor":"iri", "ranges": {  
     "r0": {  
       "from": 0,  
       "to": 2  
